@@ -1,0 +1,39 @@
+.background {
+    background-image: url("img/jeff.png");
+    height: 700px;
+}
+.sub-head{
+    color: white;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: red;
+    border-radius: 8px;
+    padding: 25px;
+    width: 25%;
+}
+.button{
+    text-align: center;
+    padding: 5%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.song{
+    text-align: center;
+}
+.podcast{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+}
+.personal{
+    text-align: center;
+}
+.per{
+    color: black;
+}
